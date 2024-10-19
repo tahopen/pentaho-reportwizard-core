@@ -1,4 +1,4 @@
-# Report Wizard Core #
+# Tahopen Report Wizard Core #
 
 
 #### Pre-requisites for building the project:
