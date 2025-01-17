@@ -10,7 +10,7 @@
   <parent>
     <groupId>org.tahopen</groupId>
     <artifactId>tahopen-ce-jar-parent-pom</artifactId>
-    <version>0.1.0.0-SNAPSHOT</version>
+    <version>0.1.0.0</version>
   </parent>
 
   <licenses>
@@ -20,19 +20,14 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-<!--
-  <scm>
-    <developerConnection>scm:git:git@github.com:pentaho/pentaho-reportwizard-core.git</developerConnection>
-    <tag>HEAD</tag>
-  </scm>
--->
+
   <properties>
     <castor.version>1.4.1</castor.version>
     <castor-codegen.version>1.4.1</castor-codegen.version>
     <castor-maven-plugin.version>2.1</castor-maven-plugin.version>
     <commons-lang3.version>3.0</commons-lang3.version>
     <junit.version>4.3.1</junit.version>
-    <pentaho-reporting.version>0.1.0.0-SNAPSHOT</pentaho-reporting.version>
+    <pentaho-reporting.version>0.1.0.0</pentaho-reporting.version>
     <license.licenseName>lgpl_v2_1</license.licenseName>
   </properties>
 
